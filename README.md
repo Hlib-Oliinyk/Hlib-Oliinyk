@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">👋 Hi! I’m Hlib, a Python Backend Developer.<br>💻 I build RESTful APIs and backend systems with FastAPI, Pydantic, SQLAlchemy, and PostgreSQL.<br>🌱 Always open to learning new technologies and frameworks.<br>🌍 Based in Zhytomyr, Ukraine.<br>🎲 Fun fact: I enjoy experimenting with different teas while coding!</p>
+<p align="left">👋 Hi! I’m Hlib, a Python Developer.<br>💻 I build RESTful APIs and backend systems with FastAPI, Pydantic, SQLAlchemy, and PostgreSQL.<br>🌱 Always open to learning new technologies and frameworks.<br>🌍 Based in Zhytomyr, Ukraine.<br>🎲 Fun fact: I enjoy experimenting with different teas while coding!</p>
 
 ###
 
