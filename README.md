@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Junior Python Developer | Junior Python Backend Developer</h4>
+<h4 align="left">Python Developer | Python Backend Developer</h4>
 
 ###
 
