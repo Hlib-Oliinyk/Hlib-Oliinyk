@@ -64,6 +64,27 @@
 
 ###
 
+<h2 align="left">☀️ Let`s Connect!</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/%D0%B3%D0%BB%D1%96%D0%B1-%D0%BE%D0%BB%D1%96%D0%B9%D0%BD%D0%B8%D0%BA-834365328/?trk=opento_sprofile_topcard" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="glib@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=4&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=dark"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hlib-Oliinyk/Hlib-Oliinyk/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hlib-Oliinyk/Hlib-Oliinyk/output/pacman-contribution-graph.svg">
